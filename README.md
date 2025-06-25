@@ -4,4 +4,4 @@
 - [Adrian Ruiz](https://github.com/addsdev-campuslands)
 
 ## Autores de paz
-- [Camper](https://github.com/SU-GITHUB-PROFILE)
+- [Tatiana Villamizar](https://github.com/Tatii22)
