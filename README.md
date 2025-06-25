@@ -5,3 +5,4 @@
 
 ## Autores de paz
 - [Camper](https://github.com/SU-GITHUB-PROFILE)
+- [Brandon](https://github.com/Stivensp)
